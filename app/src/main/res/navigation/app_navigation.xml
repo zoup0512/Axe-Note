@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_navigation"
+    app:startDestination="@id/note_navigation">
+
+    <fragment
+        android:id="@+id/note_navigation"
+        android:name="com.zoup.android.note.ui.fragment.NoteFragment"
+        tools:layout="@layout/fragment_note" />
+
+    <fragment
+        android:id="@+id/diary_navigation"
+        android:name="com.zoup.android.note.ui.fragment.DiaryFragment"
+        tools:layout="@layout/fragment_diary" />
+
+    <fragment
+        android:id="@+id/mine_navigation"
+        android:name="com.zoup.android.note.ui.fragment.MineFragment"
+        tools:layout="@layout/fragment_mine" />
+
+</navigation>

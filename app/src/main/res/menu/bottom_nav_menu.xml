@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/note_navigation"
+        android:title="@string/bottom_nav_note" />
+    <item
+        android:id="@+id/diary_navigation"
+        android:title="@string/bottom_nav_diary" />
+    <item
+        android:id="@+id/mine_navigation"
+        android:title="@string/bottom_nav_mine" />
+</menu>

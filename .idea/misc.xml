@@ -3,8 +3,34 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/drawable/bottom_nav_text_selector.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/drawable/ic_arrow_back_white_24dp.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/drawable/ic_code_white_24dp.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/drawable/ic_preview_white_24dp.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/drawable/ic_remove_red_eye_white_24dp.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/activity_file_tree.xml" value="0.15625" />
         <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/activity_main.xml" value="0.13677536231884058" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/activity_md_editor.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/activity_md_viewer.xml" value="0.11277173913043478" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/adapter_node.xml" value="0.11277173913043478" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/adapter_node_code_block.xml" value="0.11277173913043478" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/adapter_node_table_block.xml" value="0.11277173913043478" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/fragment_diary.xml" value="0.11775362318840579" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/fragment_edit.xml" value="0.10326086956521739" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/fragment_mine.xml" value="0.11775362318840579" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/fragment_note.xml" value="0.10960144927536232" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/fragment_preview.xml" value="0.11197916666666667" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/item_note.xml" value="0.10960144927536232" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/item_rv_note_fragment_content.xml" value="0.4466666666666667" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/view_basic_fragment_sample.xml" value="0.1331521739130435" />
         <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/view_basic_md_fragment.xml" value="0.13677536231884058" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/view_md_editor_menu.xml" value="0.10235507246376811" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/view_md_editor_sample.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/view_md_editor_tab_bar.xml" value="0.22" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/layout/view_table_entry_cell.xml" value="0.11277173913043478" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/menu/bottom_nav_menu.xml" value="0.12916666666666668" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/menu/context_menu.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/AxeNote/app/src/main/res/xml/file_paths.xml" value="0.12318840579710146" />
       </map>
     </option>
   </component>

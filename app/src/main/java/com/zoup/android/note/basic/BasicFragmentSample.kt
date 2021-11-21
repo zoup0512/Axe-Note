@@ -12,7 +12,7 @@ abstract class BasicFragmentSample : BasicSample() {
     protected lateinit var scrollView: ScrollView
     protected lateinit var textView: TextView
 
-    override val layoutResId: Int = R.layout.view_basic_md_fragment
+    override val layoutResId: Int = R.layout.view_basic_fragment_sample
 
     override fun onViewCreated(view: View) {
         context = view.context
